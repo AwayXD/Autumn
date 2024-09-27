@@ -1,0 +1,372 @@
+{
+  "Sprint": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Flight": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Mode": "WATCHDOG",
+      "Watchdog Speed": 1.0,
+      "Vanilla Speed": 5.0,
+      "Multiply Speed": 0.8,
+      "Multiply Time": 1190.0,
+      "View Bobbing": false,
+      "Multiplier": false
+    }
+  },
+  "Scaffold": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Aura": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Mode": "SWITCH",
+      "Sorting Mode": "DISTANCE",
+      "Auto Block Mode": "OFFSET",
+      "APS": 13.0,
+      "Randomization": 0.0,
+      "Range": 4.2,
+      "Switch Delay": 3.0,
+      "Teams": false,
+      "Players": true,
+      "Prioritize Players": false,
+      "Animals": false,
+      "Monsters": false,
+      "Invisibles": false,
+      "Auto Block": true,
+      "Force Update": true,
+      "Disable on death": true
+    }
+  },
+  "Damage Color": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Inventory Walk": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "No Slow": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "NCP": true
+    }
+  },
+  "Criticals": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Chams": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Mode": "COLOR",
+      "Player": "PURPLE",
+      "Player behind walls": "PURPLE"
+    }
+  },
+  "Velocity": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Speed": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Mode": "HYPIXEL",
+      "Bhop Speed": 0.5
+    }
+  },
+  "Server Crasher": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Regen": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Mode": "POTION",
+      "Packets": 10.0
+    }
+  },
+  "Streamer": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Hide Scoreboard": true,
+      "Hide Chat": true
+    }
+  },
+  "Crosshair": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Dot": true,
+      "Thickness": 1.0,
+      "Length": 3.0,
+      "Gap": 3.0,
+      "Outline": true,
+      "Outline thickness": 0.5
+    }
+  },
+  "Anti Aim": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Pitch mode": "DOWN",
+      "Yaw mode": "JITTER"
+    }
+  },
+  "Auto Armor": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Delay": 100.0
+    }
+  },
+  "Anti Vanish": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Fast Break": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Auto Tool": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Swords": true,
+      "Tools": true
+    }
+  },
+  "Disabler": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Mode": "WATCHDOG"
+    }
+  },
+  "Skeletons": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Smooth-Lines": true
+    }
+  },
+  "Long Jump": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Mode": "NCP",
+      "Hypixel": false
+    }
+  },
+  "Anti Fall": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Distance": 5.0
+    }
+  },
+  "No Fall": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Mode": "HYPIXEL"
+    }
+  },
+  "Anti Bot": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Mode": "HYPIXEL"
+    }
+  },
+  "Ping Spoof": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "2DESP": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Outline": true,
+      "Mode": "CORNERS",
+      "Tag": true,
+      "Health bar": true,
+      "Armor bar": true,
+      "Local Player": true,
+      "Players": true,
+      "Invisibles": false,
+      "Mobs": true,
+      "Animals": false,
+      "Chests": true,
+      "Dropped Items": false
+    }
+  },
+  "HUD": {
+    "Enabled": true,
+    "Hidden": true,
+    "Options": {
+      "Tab Gui": true,
+      "Default Font": false,
+      "Info Display Mode": "LEFT",
+      "Mod List Position": "TOP",
+      "Mod List Color Mode": "PULSING",
+      "Mod List Side Bar": false,
+      "Mod List Outline": true,
+      "Mod List Background": true,
+      "Mod List Background Alpha": 0.2,
+      "Watermark": true
+    }
+  },
+  "Inventory Manager": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Sword Slot": 1.0,
+      "Delay": 100.0
+    }
+  },
+  "Glow": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Line Width": 3.0
+    }
+  },
+  "Friend Protect": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Chest Aura": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Range": 3.0,
+      "Auto Open": true,
+      "Auto Steal": true,
+      "Delay": 85.0
+    }
+  },
+  "Anti Desync": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Animations": {
+    "Enabled": true,
+    "Hidden": true,
+    "Options": {
+      "Mode": "EXHIBITION",
+      "Swing Speed": 6.0,
+      "X": 0.0,
+      "Y": 0.15,
+      "Z": 0.0
+    }
+  },
+  "Click GUI": {
+    "Enabled": false,
+    "Hidden": true,
+    "Options": {}
+  },
+  "Full Bright": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Storage ESP": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "No Effects": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Kill Say": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Final Health": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Target Strafe": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Radius": 2.5,
+      "Render": true,
+      "Direction Keys": true,
+      "Hold Space": true
+    }
+  },
+  "Chat Bypass": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Phase": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Mode": "NORMAL"
+    }
+  },
+  "Panic": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Destroyer": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {
+      "Mode": "CAKE",
+      "Radius": 5.0
+    }
+  },
+  "Teleport": {
+    "Enabled": false,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Time Changer": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {
+      "Time": 13900.0
+    }
+  },
+  "TargetHUD": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  },
+  "Radar": {
+    "Enabled": true,
+    "Hidden": false,
+    "Options": {}
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "Sprint": {
+    "Key": 0
+  },
+  "Flight": {
+    "Key": 47
+  },
+  "Scaffold": {
+    "Key": 33
+  },
+  "Aura": {
+    "Key": 19
+  },
+  "Damage Color": {
+    "Key": 0
+  },
+  "Inventory Walk": {
+    "Key": 0
+  },
+  "No Slow": {
+    "Key": 0
+  },
+  "Criticals": {
+    "Key": 0
+  },
+  "Chams": {
+    "Key": 0
+  },
+  "Velocity": {
+    "Key": 0
+  },
+  "Speed": {
+    "Key": 34
+  },
+  "Server Crasher": {
+    "Key": 0
+  },
+  "Regen": {
+    "Key": 0
+  },
+  "Streamer": {
+    "Key": 0
+  },
+  "Crosshair": {
+    "Key": 0
+  },
+  "Anti Aim": {
+    "Key": 0
+  },
+  "Auto Armor": {
+    "Key": 0
+  },
+  "Anti Vanish": {
+    "Key": 0
+  },
+  "Fast Break": {
+    "Key": 0
+  },
+  "Auto Tool": {
+    "Key": 0
+  },
+  "Disabler": {
+    "Key": 0
+  },
+  "Skeletons": {
+    "Key": 0
+  },
+  "Long Jump": {
+    "Key": 35
+  },
+  "Anti Fall": {
+    "Key": 0
+  },
+  "No Fall": {
+    "Key": 0
+  },
+  "Anti Bot": {
+    "Key": 0
+  },
+  "Ping Spoof": {
+    "Key": 0
+  },
+  "2DESP": {
+    "Key": 0
+  },
+  "HUD": {
+    "Key": 0
+  },
+  "Inventory Manager": {
+    "Key": 50
+  },
+  "Glow": {
+    "Key": 0
+  },
+  "Friend Protect": {
+    "Key": 0
+  },
+  "Chest Aura": {
+    "Key": 0
+  },
+  "Anti Desync": {
+    "Key": 0
+  },
+  "Animations": {
+    "Key": 0
+  },
+  "Click GUI": {
+    "Key": 54
+  },
+  "Full Bright": {
+    "Key": 0
+  },
+  "Storage ESP": {
+    "Key": 0
+  },
+  "No Effects": {
+    "Key": 0
+  },
+  "Kill Say": {
+    "Key": 0
+  },
+  "Final Health": {
+    "Key": 0
+  },
+  "Target Strafe": {
+    "Key": 0
+  },
+  "Chat Bypass": {
+    "Key": 0
+  },
+  "Phase": {
+    "Key": 45
+  },
+  "Panic": {
+    "Key": 48
+  },
+  "Destroyer": {
+    "Key": 0
+  },
+  "Teleport": {
+    "Key": 0
+  },
+  "Time Changer": {
+    "Key": 0
+  },
+  "TargetHUD": {
+    "Key": 0
+  },
+  "Radar": {
+    "Key": 0
+  }
+}
